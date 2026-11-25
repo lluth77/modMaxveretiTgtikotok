@@ -1,0 +1,23 @@
+SOCIAL BLOCKS — ИСХОДНЫЙ ПРОЕКТ
+
+Minecraft: 1.21.11
+Загрузчик: Fabric
+Java: 21
+
+ТЕКСТУРЫ:
+- purple_block.png — логотип P на сине-фиолетовом градиенте (IMG_7175)
+- blue_block.png — логотип Telegram (IMG_7176)
+- black_block.png — логотип TikTok (IMG_7177)
+- smile_block.png — жёлтый смайлик (IMG_7178)
+
+Исходные изображения сохранены в artwork/original_images.
+Готовые текстуры блоков находятся в src/main/resources/assets/socialblocks/textures/block/.
+
+СБОРКА JAR:
+1. Установить JDK 21.
+2. Установить Gradle (версия, совместимая с Fabric Loom 1.14).
+3. Открыть терминал в папке проекта social-blocks-mod.
+4. Выполнить: gradle build
+5. Готовый JAR после успешной сборки появится в build/libs/.
+
+Это исходный проект, а не готовый JAR. Сборка в этой среде не выполнялась.

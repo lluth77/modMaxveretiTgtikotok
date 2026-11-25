@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "socialblocks:purple_block",
+    "socialblocks:blue_block",
+    "socialblocks:black_block",
+    "socialblocks:smile_block"
+  ]
+}

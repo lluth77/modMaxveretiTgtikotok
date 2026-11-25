@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "socialblocks",
+  "version": "${version}",
+  "name": "Social Blocks",
+  "description": "Adds 4 new decorative blocks with custom textures.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.socialblocks.SocialBlocks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
